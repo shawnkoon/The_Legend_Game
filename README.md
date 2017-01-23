@@ -27,4 +27,8 @@
 
 2. (Optional) Set alias for python3 -> python for easier execution. 
 
-3. Run LegendGame.py
+3. Download pip3 for python3 package manager.
+
+4. Run `pip3 install -r requirements.txt` to install required packages.
+
+5. Run LegendGame.py
