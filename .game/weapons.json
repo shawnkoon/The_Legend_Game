@@ -1,0 +1,12 @@
+[
+	{
+		"Name": "Long Sword",
+		"Class": "Rare",
+		"Price": 100,
+		"Description": "Basic long sword.",
+		"ATK": 5,
+		"DEF": 0,
+		"LUK": 0,
+		"CRT": 0
+	}
+]
