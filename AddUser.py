@@ -18,7 +18,7 @@ playerATK = 0
 playerDEF = 0
 playerLUK = 0
 PlayerCRT = 0
-filePATH = './.game/player.json'
+filePATH = './.game/players.json'
 
 choice = 0
 

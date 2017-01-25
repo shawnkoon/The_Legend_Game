@@ -1,0 +1,22 @@
+[
+	{
+		"Name": "Leaf Helmet",
+		"Class": "Rare",
+		"Price": 100,
+		"Description": "Helmet made out of leaf",
+		"ATK": 0,
+		"DEF": 5,
+		"LUK": 0,
+		"CRT": 0
+	},
+	{
+		"Name": "Leaf Gloves",
+		"Class": "Rare",
+		"Price": 100,
+		"Description": "Gloves made out of leaf",
+		"ATK": 0,
+		"DEF": 5,
+		"LUK": 0,
+		"CRT": 0
+	}
+]
