@@ -1,0 +1,24 @@
+[
+	{
+		"Name": "Green Snail",
+		"Description": "Snail with Green shell. It moves very slow.",
+		"Level": 5,
+		"Meso": 50,
+		"HP": 50,
+		"ATK": 10,
+		"DEF": 15,
+		"LUK": 0,
+		"CRT": 0
+	},
+	{
+		"Name": "Blue Snail",
+		"Description": "Snail with Blue shell. It is bigger than green snail and moves faster.",
+		"Level": 8,
+		"Meso": 100,
+		"HP": 100,
+		"ATK": 25,
+		"DEF": 25,
+		"LUK": 3,
+		"CRT": 0
+	}
+]
