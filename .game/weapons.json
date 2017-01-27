@@ -8,5 +8,45 @@
 		"DEF": 0,
 		"LUK": 0,
 		"CRT": 0
+	},
+	{
+		"Name": "Blood Edge",
+		"Class": "Unique",
+		"Price": 13400,
+		"Description": "Sword that thirst blood. Needs to be used carefully. ",
+		"ATK": 350,
+		"DEF": 0,
+		"LUK": 9,
+		"CRT": 22
+	},
+	{
+		"Name": "Iron Sword",
+		"Class": "Rare",
+		"Price": 400,
+		"Description": "Sword made out of Iron. It is known for it's heavy weight.",
+		"ATK": 12,
+		"DEF": 0,
+		"LUK": 0,
+		"CRT": 0
+	},
+	{
+		"Name": "Sharktooth Blade",
+		"Class": "Epic",
+		"Price": 4580,
+		"Description": "Blade made from shark tooth. It has very pointy edges.",
+		"ATK": 63,
+		"DEF": 5,
+		"LUK": 0,
+		"CRT": 5
+	},
+	{
+		"Name": "Magnetic Pulse",
+		"Class": "Epic",
+		"Price": 3200,
+		"Description": "Weapon made with Magenetic engery. It can produce magnetic discharge against objects.",
+		"ATK": 45,
+		"DEF": 15,
+		"LUK": 0,
+		"CRT": 0
 	}
 ]

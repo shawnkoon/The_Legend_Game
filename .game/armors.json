@@ -18,5 +18,35 @@
 		"DEF": 5,
 		"LUK": 0,
 		"CRT": 0
+	},
+	{
+		"Name": "Leaf Shoes",
+		"Class": "Rare",
+		"Price": 100,
+		"Description": "Shoes made out of leaf",
+		"ATK": 0,
+		"DEF": 5,
+		"LUK": 0,
+		"CRT": 0
+	},
+	{
+		"Name": "Leaf Shirt",
+		"Class": "Rare",
+		"Price": 100,
+		"Description": "Shirt made out of leaf",
+		"ATK": 0,
+		"DEF": 5,
+		"LUK": 0,
+		"CRT": 0
+	},
+	{
+		"Name": "Leaf Pants",
+		"Class": "Rare",
+		"Price": 100,
+		"Description": "Pants made out of leaf",
+		"ATK": 0,
+		"DEF": 5,
+		"LUK": 0,
+		"CRT": 0
 	}
 ]
